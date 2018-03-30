@@ -1,0 +1,42 @@
+<aiml version="1.0.1" encoding="UTF-8">
+  <!-- std-startup.xml -->
+  
+  <category>
+    <pattern>LOAD AIML</pattern>
+    
+    <template>
+      <learn>AIML/20q.aiml</learn>
+      <learn>AIML/battledome.aiml</learn>
+      <learn>AIML/binary.aiml</learn>
+      <learn>AIML/blackjack.aiml</learn>
+      <learn>AIML/bornin.aiml</learn>
+      <learn>AIML/botcompate.aiml</learn>
+      <learn>AIML/calendar.aiml</learn>
+      <learn>AIML/chatbots32.aiml</learn>
+      <learn>AIML/copyme.aiml</learn>
+      <learn>AIML/currency.aiml</learn>
+      <learn>AIML/jokes.aiml</learn>
+      <learn>AIML/knockknock.aiml</learn>
+      <learn>AIML/learn.aiml</learn>
+      <learn>AIML/luckyslots.aiml</learn>
+      <learn>AIML/maths.aiml</learn>
+      <learn>AIML/numberdrop.aiml</learn>
+      <learn>AIML/numberones.aiml</learn>
+      <learn>AIML/onthisday.aiml</learn>
+      <learn>AIML/poker.aiml</learn>
+      <learn>AIML/quizfacts.aiml</learn>
+      <learn>AIML/seasons.aiml</learn>
+      <learn>AIML/shutup.aiml</learn>
+      <learn>AIML/tictactoe.aiml</learn>
+      <learn>AIML/warnings.aiml</learn>
+      <learn>AIML/whatday_usa.aiml</learn>
+      <learn>AIML/wordplay.aiml</learn>
+      <learn>AIML/yomama.aiml</learn>
+      <learn>AIML/zbert.aiml</learn>
+        <learn>AIML/Custom/jango.aiml</learn>
+    </template>
+
+  </category>
+
+
+</aiml>
